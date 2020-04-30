@@ -31,7 +31,7 @@ const Chart  = ({data: {confirmed, recovered, deaths} , country}) => {
                     label: 'Deaths',
                     borderColor: 'red',
                     backgroundColor: 'rgba(255,0,0,0.5)',
-                    fill:true
+                    fill:true,
                 }],
             }}
         />) : null
@@ -43,6 +43,7 @@ const Chart  = ({data: {confirmed, recovered, deaths} , country}) => {
             <Bar
             data={{
                 labels: ['Infected', 'Recovered', 'Deaths'],
+        
                 datasets: [{
                     label: 'People',
                     backgroundColor: [
