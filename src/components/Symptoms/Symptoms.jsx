@@ -81,7 +81,7 @@ Notably, the COVID-19 infection rarely seems to cause a runny nose, sneezing, or
                         <li>version: 0.1.0</li>  
                         <li>Author: Marc Reginald Panaligan</li>
                         <li>Description:  This project is created to monitor the data of the Infected, Recovered and Died because of the virus, it only tracks the current data of the current day it does not show the previous data 
-                        of the country selected. The API used for this project is https://covid19.mathdro.id/api. And Credits to https://github.com/adrianhajdin for the reference.</li>  
+                        of the country selected. The API used for this project is https://covid19.mathdro.id/api. And Credits to Adrian Hajdin for the reference.</li>  
                         </ul>
                              
                   </Typography>
